@@ -4,7 +4,7 @@
         <td style="border: none;">
             <img width="550" alt="Coding" src="https://repository-images.githubusercontent.com/824757290/26fa35ee-39a9-4f18-a437-516120947d5a">
         </td>
-        <td style="border: none; padding-left: 20px;">
+        <td style="border: none; padding-left: 20px; vertical-align: top;">
             <h3>Project Objectives</h3>
             <p>The goal is to predict the likelihood of churn for each client in the next month based on visitor data from a network of fitness centers, and to form user portraits through clustering.</p>
             <h4>Skills and Tools</h4>
