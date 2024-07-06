@@ -2,7 +2,7 @@
 <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
         <td style="border: none;">
-            <img width="500" alt="Coding" src="https://repository-images.githubusercontent.com/824757290/26fa35ee-39a9-4f18-a437-516120947d5a">
+            <img width="550" alt="Coding" src="https://repository-images.githubusercontent.com/824757290/26fa35ee-39a9-4f18-a437-516120947d5a">
         </td>
         <td style="border: none; padding-left: 20px;">
             <h3>Project Objectives</h3>
