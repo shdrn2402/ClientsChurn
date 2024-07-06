@@ -1,5 +1,7 @@
 <h2>ClientsChurn Project - Predicting User Churn Probability for Fitness Centers</h2>
 
+<img width="400" alt="Coding" src="https://repository-images.githubusercontent.com/824757290/26fa35ee-39a9-4f18-a437-516120947d5a">
+
 <h3>Project Objectives</h3>
 <p>The goal is to predict the likelihood of churn for each client in the next month based on visitor data from a network of fitness centers, and to form user portraits through clustering.</p>
 
