@@ -1,7 +1,4 @@
-
 <h2>ClientsChurn Project - Predicting User Churn Probability for Fitness Centers</h2>
-
-[view project](https://nbviewer.org/github/shdrn2402/ClientsChurn/blob/main/ClientsChurn.ipynb)
 
 <h3>Project Objectives</h3>
 <p>The goal is to predict the likelihood of churn for each client in the next month based on visitor data from a network of fitness centers, and to form user portraits through clustering.</p>
@@ -15,3 +12,5 @@
     <li>Libraries: <i>Pandas, Scikit-learn, Matplotlib, Seaborn</i></li>
     <li>Machine Learning Techniques: <i>Classification, Clustering</i></li>
 </ul>
+
+[view project](https://nbviewer.org/github/shdrn2402/ClientsChurn/blob/main/ClientsChurn.ipynb)
