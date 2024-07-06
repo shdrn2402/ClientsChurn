@@ -1,0 +1,15 @@
+
+<h1>ClientsChurn Project - Predicting User Churn Probability for Fitness Centers</h1>
+
+<h2>Project Objectives</h2>
+<p>The goal is to predict the likelihood of churn for each client in the next month based on visitor data from a network of fitness centers, and to form user portraits through clustering.</p>
+
+<h2>Project Description</h2>
+<p>This project uses machine learning to predict the probability of churn (on a next-month level) for each client. It also creates typical user portraits by identifying the most prominent groups and characterizing their key properties. Additionally, it analyzes the main features that most strongly influence churn.</p>
+
+<h2>Skills and Tools</h2>
+<ul>
+    <li>Programming Language: <i>Python</i></li>
+    <li>Libraries: <i>Pandas, Scikit-learn, Matplotlib, Seaborn</i></li>
+    <li>Machine Learning Techniques: <i>Classification, Clustering</i></li>
+</ul>
